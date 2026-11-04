@@ -1,5 +1,5 @@
 # CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session19_Ex03
-**1. Báo cáo
+##1. Báo cáo
 
 * **Input:** Facebook/Gmail văng phiên liên tục, có vị trí đăng nhập lạ, nguy cơ lộ cookie/token.
 * **Process:** Ngắt mạng Đổi pass từ thiết bị sạch, Thu hồi Token GitHub và Cài lại Windows / Quét virus.
