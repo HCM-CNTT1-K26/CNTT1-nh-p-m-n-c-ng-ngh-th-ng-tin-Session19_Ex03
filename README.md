@@ -2,7 +2,7 @@
 **1. Báo cáo
 
 * **Input:** Facebook/Gmail văng phiên liên tục, có vị trí đăng nhập lạ, nguy cơ lộ cookie/token.
-* **Process:** Ngắt mạng Đổi pass từ thiết bị sạch Thu hồi Token GitHub  Cài lại Windows / Quét virus.
+* **Process:** Ngắt mạng Đổi pass từ thiết bị sạch, Thu hồi Token GitHub và Cài lại Windows / Quét virus.
 * **Output:** Máy sạch, tài khoản an toàn với mật khẩu mới và 2FA.
 
 ---
@@ -22,7 +22,7 @@ Lấy **điện thoại** (đã ngắt Wi-Fi, dùng 4G) để thực hiện:
 ### Bước 2: Thu hồi Token trên GitHub (Revoke Token)
 
 1. **Vào Developer Settings:** Thực hiện trên thiết bị sạch.
-Đăng nhập GitHub trên điện thoại hoặc máy sạch, click vào ảnh avatar $\rightarrow$ **Settings** $\rightarrow$ Kéo xuống chọn **Developer settings**.
+Đăng nhập GitHub trên điện thoại hoặc máy sạch, click vào ảnh avatar, **Settings**, Kéo xuống chọn **Developer settings**.
 *Kiểm tra:* Màn hình hiện menu quản lý Personal access tokens và OAuth apps.
 
 
